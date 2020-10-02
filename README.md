@@ -9,7 +9,7 @@ npm install
 npm start
 ```
 
-This fires up a server that reloads/rebuilds on file changes, located at http://localhost:8080.
+This fire up a server that reloads or rebuilds the file changes, located at http://localhost:8080.
 
 All content is in markdown. The main page is `index.md` and all the individual event
 pages are in `events/`
